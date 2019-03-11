@@ -4,6 +4,8 @@ A Notekeeper app using SqlLite database
 
 ![Screenshot_notekeeper_20190311-173146](https://user-images.githubusercontent.com/47001665/54123383-9d986600-4425-11e9-8ca0-77f53bad33b0.png)
 
+![Screenshot_notekeeper_20190311-173155](https://user-images.githubusercontent.com/47001665/54123540-0bdd2880-4426-11e9-90dd-c38c0808b811.png)
+
 
 ## Getting Started
 
