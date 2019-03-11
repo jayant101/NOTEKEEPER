@@ -1,6 +1,9 @@
 # notekeeper
 
-A new Flutter project.
+A Notekeeper app using SqlLite database
+
+![Screenshot_notekeeper_20190311-173146](https://user-images.githubusercontent.com/47001665/54123383-9d986600-4425-11e9-8ca0-77f53bad33b0.png)
+
 
 ## Getting Started
 
